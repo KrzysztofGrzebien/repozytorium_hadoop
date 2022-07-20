@@ -1,2 +1,6 @@
 przykładowy kod 1
 modyfikacja
+
+
+
+niepotrrzebna modyfikacja
